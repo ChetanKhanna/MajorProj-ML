@@ -1,4 +1,4 @@
-date,new_cases,total_cases,active_cases,mobilty,does1,dose2,new_deaths,total_deaths
+date,new_cases,total_cases,active_cases,mobilty,dose1,dose2,new_deaths,total_deaths
 2020-02-11,1,1,1,109.07,0,0,0,0
 2020-02-12,0,1,0,111.2,0,0,0,0
 2020-02-13,0,1,0,110.18,0,0,0,0
