@@ -1,0 +1,7 @@
+The data for total daily cases and cummulative cases was downloaded from the datastore at:
+
+https://data.london.gov.uk/dataset/coronavirus--covid-19--cases
+
+The data for active cases was downloaded from:
+
+https://coronavirus.data.gov.uk/details/healthcare?areaType=nhsregion&areaName=London
