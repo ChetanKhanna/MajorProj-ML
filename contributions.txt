@@ -1,0 +1,9 @@
+Shashwat Oorjit Avasthi: 2 layer NN model, report, data scraping, model comparison
+
+Mudit Agarwal: LSTM (not included in src, but worked on it), report, data scraping
+
+Sanchit Krishna: LSTM (not included in src, but worked on it), report, data scraping
+
+Mayank Chaturvedi: feature engineering, data scraping, data preprocessing, SVR model
+
+Chetan Khanna: SVR model, wandb, single layered NN model, report, data visualization
