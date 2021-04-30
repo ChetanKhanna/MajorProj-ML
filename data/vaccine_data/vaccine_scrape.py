@@ -2,8 +2,8 @@ import pandas as pd
 import sys
 import time
 import datetime
-path = '/content/drive/MyDrive/Major Project/src/vaccine_data'
-df = pd.read_csv('/content/drive/MyDrive/Major Project/src/org.csv')
+path=""
+df = pd.read_csv('./org.csv')
 data = pd.DataFrame([df['end_date'], df['vaccines'], df['population'], df['dose']]).transpose()
 data = data.groupby(['dose','end_date']).sum()
 data.reset_index(inplace=True)
@@ -29,6 +29,5 @@ def extrapolate(data, typeOfDose):
 
 data_dose1 = extrapolate(data,'1st dose')
 data_dose2 = extrapolate(data,'2nd dose')
-data_dose1.to_csv(path+'vaccine_dose1.csv')
-data_dose2.to_csv(path+'vaccine_dose2.csv')
-print(data_dose1)
+data_dose1.to_csv('vaccine_dose1.csv')
+data_dose2.to_csv('vaccine_dose2.csv')
