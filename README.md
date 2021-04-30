@@ -2,7 +2,7 @@
 
 This project is done as a part of the major project under the course BITS F464 course.
 
-Contributors :-
+Contributors (Group 13) :-
 
 1. Sanchit Krishna	(2017AAPS0223G)
 2. Mudit Agarwal 	(2017B3A70483G)
